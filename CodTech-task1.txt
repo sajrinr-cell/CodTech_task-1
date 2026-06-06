@@ -1,0 +1,13 @@
+CodTech-task*1
+
+Exploratory Data Analysis (EDA)
+
+This project focuses on performing Exploratory Data Analysis (EDA) on a real-world dataset using Python. The main objective is to understand the structure of the data, clean it, and extract meaningful insights through statistical analysis and visualizations.
+
+The process begins with loading the dataset into a Pandas DataFrame, followed by examining its shape, data types, and basic statistical summaries. Missing values are identified and handled using appropriate techniques, while duplicate records are removed to ensure data quality.
+
+After cleaning, the dataset is analyzed using various visualization techniques such as histograms, box plots, heatmaps, and count plots. These visualizations help in understanding distributions, detecting outliers, and identifying relationships between variables.
+
+The project also includes categorical data analysis to observe frequency distributions of different features. Finally, the cleaned dataset is saved for future use.
+
+Overall, this project helps in gaining hands-on experience in data preprocessing, analysis, and visualization, which are essential steps in any data science workflow.
